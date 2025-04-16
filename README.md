@@ -39,4 +39,4 @@ This project evaluates various regression models (Linear Regression, Ridge/Lasso
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AbdulRafay365/house-price-prediction.git
+   git clone https://github.com/AbdulRafay365/Predicting-Housing-Prices-with-ML.git
