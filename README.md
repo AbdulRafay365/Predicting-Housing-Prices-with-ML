@@ -1,5 +1,5 @@
 # 🏠 House Price Prediction Model
-
+![Blog-Banners-min-11-980x490](https://github.com/user-attachments/assets/490cf8fa-1e18-479d-a51e-96eeed5e3b7b)
 A comprehensive machine learning project comparing multiple regression models to predict house prices with thorough performance analysis.
 
 ## 📌 Overview
@@ -39,4 +39,4 @@ This project evaluates various regression models (Linear Regression, Ridge/Lasso
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/house-price-prediction.git
+   git clone https://github.com/AbdulRafay365/house-price-prediction.git
