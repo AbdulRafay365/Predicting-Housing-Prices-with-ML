@@ -116,5 +116,5 @@ The objective is to determine the most effective model for accurate house price 
 
 Feel free to reach out for questions or collaborations:
 
-- 📧 Email: your.email@example.com  
-- 🧑‍💻 LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- 📧 Email: abdulrafaymohammed365@gmail.com
+- 🧑‍💻 LinkedIn: [Abdul Rafay]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdulrafaymohammed365/))
