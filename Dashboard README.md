@@ -10,6 +10,7 @@ After analyzing King County housing prices and building predictive models in thi
 </div>
 
 [Dashboard Link](https://public.tableau.com/app/profile/abdul.rafay.mohammed2129/viz/HousePrices_17394466570580/FinalDashboard)
+
 ## 🔍 Key Insights
 - **Price Trends**: Tracks daily average price changes (Feb-Mar 2015 sample shown)
 - **Property Features**: Distribution of bedrooms (1-8) and bathrooms (0.5-7.5)
@@ -18,7 +19,7 @@ After analyzing King County housing prices and building predictive models in thi
 ## 🛠️ Dashboard Features
 ### Interactive Filters
 - **Time Selection**: March 2015 focus with full 1990-2015 range available
-- **Condition Filtering**: View properties by quality rating (Excellent/Good/Average/Fair)
+- **Filtering**: View properties by year built, sqft lot and living.
 
 ### Visualizations
 1. **Price Analysis**:
@@ -44,16 +45,3 @@ After analyzing King County housing prices and building predictive models in thi
 ## 🚀 How to Use
 1. Download the `.twbx` file
 2. Open in Tableau Desktop/Public
-3. Interact with:
-   - Date range filters
-   - Condition toggles
-   - Bedroom/bathroom selectors
-
-## 📊 Sample Findings
-- Premium prices for homes with "Excellent" views ($600K-$1M)
-- Most common configuration: 3-bedroom, 2.5-bath homes
-- March 2015 showed 400% price volatility in some segments
-
----
-
-*For dashboard customization or data questions, contact [Your Email]*
