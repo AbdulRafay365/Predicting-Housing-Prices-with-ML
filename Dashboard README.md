@@ -43,5 +43,5 @@ After analyzing King County housing prices and building predictive models in thi
   - Geographic coordinates
 
 ## 🚀 How to Use
-1. Download the `.twbx` file
+1. Download the `.twbx` file in Exports/Visualization
 2. Open in Tableau Desktop/Public
