@@ -1,6 +1,6 @@
 # 🏡 Predicting Housing Prices in King County, Washington
 
-A Comparative Analysis of Machine Learning Models for Accurate Price Estimation and a [dashboard]() that compliments this analysis.
+A Comparative Analysis of Machine Learning Models for Accurate Price Estimation and a [dashboard](https://github.com/AbdulRafay365/Predicting-Housing-Prices-with-ML/blob/main/Dashboard%20README.md) that compliments this analysis.
 
 ![Blog-Banners-min-11-980x490](https://github.com/user-attachments/assets/490cf8fa-1e18-479d-a51e-96eeed5e3b7b)
 
